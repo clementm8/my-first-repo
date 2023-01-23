@@ -1,0 +1,18 @@
+.container{
+    width: 960px;
+    background-color: #ddd;
+}
+
+main section{
+    background-color: white;
+    border: 1px solid black;
+}
+
+section h3{
+    margin: 10px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
